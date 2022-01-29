@@ -39,10 +39,10 @@ Ujjayi or victorious breath is an internal audible breath and can be used as a s
 This breathing technique should be generally safe. Any heart or lunch concerns should be consulted with your Doctor.
 
 #### Practice:
-1. Start seated comfortably
-2. Breathe in through the nose and empty the lungs
-3. Inhale through the nose
-4. Exhale through the nose
+ 1. Start seated comfortably
+ 2. Breathe in through the nose and empty the lungs
+ 3. Inhale through the nose
+ 4. Exhale through the nose
 
 #### Links
 [https://www.youtube.com/watch?v=IQrsJ-yZWV8](https://www.youtube.com/watch?v=IQrsJ-yZWV8)
@@ -59,27 +59,26 @@ Both of these practices are similar, but there are slight differences. Because o
 This breathing technique should be generally safe. Any heart or lunch concerns should be consulted with your Doctor
 
 #### Practice (Anuloma Viloma):
-1. Using your right hand, bend your index finger in.
-2. Place your right thumb on your right nostril and inhale through the left.
-3. Middle and index finger are placed on your left nostril.
-4. Blocking the right nostril, inhale left
-5. Block the left, open the right, exhale right nostril
+ 1. Using your right hand, bend your index finger in.
+ 2. Place your right thumb on your right nostril and inhale through the left.
+ 3. Middle and index finger are placed on your left nostril.
+ 4. Blocking the right nostril, inhale left
+ 5. Block the left, open the right, exhale right nostril
 
 Additionally, you can add a hold around the inhales and exhales.
 
 #### Practice (Nadi Shodhana):
-1. Using your right hand, bend your index finger in.
-2. Place your right thumb on your right nostril and inhale through the left.
-3. Block both nostrils, hold.
-4. Release the right side and exhale.
-5. Inhale, right nostril
-6. Hold, block both nostrils
-7. Exhale, left nostril
+ 1. Using your right hand, bend your index finger in.
+ 2. Place your right thumb on your right nostril and inhale through the left.
+ 3. Block both nostrils, hold.
+ 4. Release the right side and exhale.
+ 5. Inhale, right nostril
+ 6. Hold, block both nostrils
+ 7. Exhale, left nostril
 
 #### Links / References
 - [https://www.youtube.com/watch?v=RUFzLVf5wL4](https://www.youtube.com/watch?v=RUFzLVf5wL4)
 - [https://www.healthline.com/health/anulom-vilom-pranayama](https://www.healthline.com/health/anulom-vilom-pranayama#side-effects-and-risks)
-
 
 ### Sama Vritti (Box Breath)
 
@@ -93,11 +92,11 @@ Additionally, you can add a hold around the inhales and exhales.
 This breathing technique should be generally safe. Any heart or lunch concerns should be consulted with your Doctor.
 
 #### Practice
-- Empty your lungs with an exhale to start
-- Inhale 4 seconds
-- Hold 4 second (Void Retention)
-- Exhale 4 seconds
-- Hold 4 seconds
+ 1. Empty your lungs with an exhale to start
+ 2. Inhale 4 seconds
+ 3. Hold 4 second (Void Retention)
+ 4. Exhale 4 seconds
+ 5. Hold 4 seconds
 
 #### Links
 [https://www.youtube.com/watch?v=tEmt1Znux58](https://www.youtube.com/watch?v=tEmt1Znux58)
@@ -114,9 +113,9 @@ In Kapalbhati we primarily focus on a forceful exhale. The inhale that follows i
 Kapalbhati should not be practiced by those suffering from heart disease, high blood pressure, vertigo, epilepsy, stroke, hernia or gastric ulcer.
 
 #### Practice
-1. Breathe in
-2. Forceful exhale through the nose, tightening the abdominal muscles.
-3. The inhale is passive
+ 1. Breathe in
+ 2. Forceful exhale through the nose, tightening the abdominal muscles.
+ 3. The inhale is passive
 
 Perform starting off with a few rounds, gradually increasing the number of exhales per round.
 
