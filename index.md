@@ -36,7 +36,7 @@ Ujjayi or victorious breath is an internal audible breath and can be used as a s
 - Relaxes the body
 
 #### Side Effects / Risks:
-This breathing technique should be generally safe. Any heart or lunch concerns should be consulted with your Doctor.
+This breathing technique should be generally safe. Any heart or lung concerns should be consulted with your Doctor.
 
 #### Practice:
  1. Start seated comfortably
@@ -56,7 +56,7 @@ Both of these practices are similar, but there are slight differences. Because o
 - Improved Breathing and Circulation
 
 #### Side Effects / Risks:
-This breathing technique should be generally safe. Any heart or lunch concerns should be consulted with your Doctor
+This breathing technique should be generally safe. Any heart or lung concerns should be consulted with your Doctor
 
 #### Practice (Anuloma Viloma):
  1. Using your right hand, bend your index finger in.
@@ -89,7 +89,7 @@ Additionally, you can add a hold around the inhales and exhales.
 - Inner Peace
 
 #### Side Effects / Risks
-This breathing technique should be generally safe. Any heart or lunch concerns should be consulted with your Doctor.
+This breathing technique should be generally safe. Any heart or lung concerns should be consulted with your Doctor.
 
 #### Practice
  1. Empty your lungs with an exhale to start
